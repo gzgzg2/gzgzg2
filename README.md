@@ -1,4 +1,8 @@
-### 안녕? 반가워요 👋
+❤️ **RamRam**
+
+[<img src="https://img.shields.io/badge/DevBlog-181717??style=flat-square&logo=GitHub&logoColor=white">](https://gzgzg2.github.io/)
+[<img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqXxhHZnknMrMdTtRvBfxLpbDfZmRTsmHHVRnpLhDsWdnnjQvZCRDcFTRbPxQrpCbxrqNB)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gzgzg2&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
