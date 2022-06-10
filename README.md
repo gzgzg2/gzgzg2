@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕? 반가워요 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gzgzg2&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **gzgzg2/gzgzg2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
